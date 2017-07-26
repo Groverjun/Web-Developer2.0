@@ -309,6 +309,11 @@ address {
 .contact-github {
   padding-left: 28px;
 }
+.iconfont::before{
+  width: 24px;
+  display: inline-block;
+  font-size: 20px;
+}
 .contact-github::before {
   font-family: FontAwesome;
   font-size: inherit;
