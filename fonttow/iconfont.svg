@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>
+Created by FontForge 20120731 at Thu Jul 27 08:57:37 2017
+ By admin
+</metadata>
+<defs>
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face 
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    panose-1="2 0 6 3 0 0 0 0 0 0"
+    ascent="896"
+    descent="-128"
+    x-height="792"
+    bbox="44 -126.667 971.6 820.896"
+    underline-thickness="0"
+    underline-position="0"
+    unicode-range="U+0078-E8A4"
+  />
+<missing-glyph 
+ />
+    <glyph glyph-name=".notdef" 
+ />
+    <glyph glyph-name=".notdef" 
+ />
+    <glyph glyph-name=".null" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="nonmarkingreturn" horiz-adv-x="341" 
+ />
+    <glyph glyph-name="x" unicode="x" horiz-adv-x="1001" 
+d="M281 543q-27 -1 -53 -1h-83q-18 0 -36.5 -6t-32.5 -18.5t-23 -32t-9 -45.5v-76h912v41q0 16 -0.5 30t-0.5 18q0 13 -5 29t-17 29.5t-31.5 22.5t-49.5 9h-133v-97h-438v97zM955 310v-52q0 -23 0.5 -52t0.5 -58t-10.5 -47.5t-26 -30t-33 -16t-31.5 -4.5q-14 -1 -29.5 -0.5
+t-29.5 0.5h-32l-45 128h-439l-44 -128h-29h-34q-20 0 -45 1q-25 0 -41 9.5t-25.5 23t-13.5 29.5t-4 30v167h911zM163 247q-12 0 -21 -8.5t-9 -21.5t9 -21.5t21 -8.5q13 0 22 8.5t9 21.5t-9 21.5t-22 8.5zM316 123q-8 -26 -14 -48q-5 -19 -10.5 -37t-7.5 -25t-3 -15t1 -14.5
+t9.5 -10.5t21.5 -4h37h67h81h80h64h36q23 0 34 12t2 38q-5 13 -9.5 30.5t-9.5 34.5q-5 19 -11 39h-368zM336 498v228q0 11 2.5 23t10 21.5t20.5 15.5t34 6h188q31 0 51.5 -14.5t20.5 -52.5v-227h-327z" />
+    <glyph glyph-name="tel" unicode="&#xe62a;" 
+d="M414 202q18 -18 42 -36.5t39 -28.5l15 -10q2 -2 7 -5.5t20 -10.5t29 -11t32.5 -3t32.5 10q27 16 53.5 34.5t36.5 25t23 11.5t23 2t26 -13q39 -21 69.5 -42.5t49.5 -38.5t31.5 -34t18.5 -28.5t8 -22.5t1.5 -16.5t-1.5 -10.5q-15 -54 -98 -84t-180 -6q-221 55 -381 214
+q-159 160 -214 381q-24 97 6 180t84 98q5 1 10.5 1.5t16.5 -1.5t22.5 -7.5t28.5 -18.5t34 -31.5t38.5 -49.5t42.5 -69q10 -17 13 -27t-2 -23t-11.5 -22.5t-25 -36.5t-34.5 -54q-9 -14 -10.5 -32t3.5 -33t10.5 -28t11.5 -21l5 -7q35 -56 74 -95v0z" />
+    <glyph glyph-name="job-on" unicode="&#xe8a4;" 
+d="M940 475q0 79 -56 134.5t-134 55.5h-37q-23 83 -98 127q-76 44 -161 21q-55 -15 -95 -54.5t-55 -93.5h-35q-79 0 -135 -55.5t-56 -134.5v-81h862v81zM465 772q68 18 129 -17q53 -31 75 -90h-319q14 39 44.5 67.5t70.5 39.5zM940 334h-861v-164q0 -78 55.5 -134t134.5 -56
+h481q79 0 135 55.5t56 134.5z" />
+  </font>
+</defs></svg>
