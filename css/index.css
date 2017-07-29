@@ -713,6 +713,7 @@ section {
 }
 .skills-item-description {
   padding-left: 0;
+
 }
 .skills-item {
   margin: 10px 0;
@@ -722,7 +723,7 @@ section {
 }
 .skills-item-summary {
   font-size: 18px;
-  margin: 10px 0 5px 0;
+  margin: 12px 0 12px 0;
   font-weight: bold;
 }
 .skills-miscellaneous {
@@ -746,6 +747,7 @@ section {
 }
 .skills-item-description {
   padding-left: 28px;
+  margin-bottom: 6px;
 }
 .skills-item-description::before {
   font-family: FontAwesome;
