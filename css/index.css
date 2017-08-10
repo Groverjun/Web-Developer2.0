@@ -126,7 +126,7 @@ dl {
   padding-bottom: 10000px;
   margin-bottom: 10000px;
   background-color: #333;
-  color: white;
+  color: #fff;
 }
 .title {
   text-align: center;
@@ -214,7 +214,7 @@ address {
 }
 .intro a:link,
 .intro a:visited {
-  color: white;
+  color: #fff;
 }
 .intro a:hover,
 .intro a:active {
